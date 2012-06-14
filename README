@@ -1,0 +1,1 @@
+`make -j8` to simultaneously run task to 8 processors
