@@ -1,1 +1,6 @@
+Type:
+$> make -f Makefile
+in a folder with your .pdf files. Will output .jpg versions of them.
+Requires ImageMagick
+
 `make -j8` to simultaneously run task to 8 processors
